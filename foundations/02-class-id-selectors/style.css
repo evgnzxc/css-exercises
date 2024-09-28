@@ -1,0 +1,18 @@
+.odd-elem {
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two-elem {
+  color: blue;
+  font-size: 36px;
+}
+
+#four-elem {
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.fs {
+  font-size: 24px;
+}
